@@ -1,0 +1,27 @@
+* {
+    
+}
+
+div {
+    background-color: black;
+    padding: 5px 10px;
+}
+
+.btn.btn-rounded {
+    border-radius: 100%;
+    height: 70px;
+    width: 70px;
+}
+
+.btn.zero {
+    border-radius: 50px;
+    width: 160px;
+    text-align: left;
+    padding-left: 25px;
+}
+
+/* .container-sm.num-pad {
+    
+    align-items: center;
+} */
+
